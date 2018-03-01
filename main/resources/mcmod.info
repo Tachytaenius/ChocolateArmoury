@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chocolatearmoury",
+  "name": "Chocolate Armoury",
+  "description": "An extension of the Minecraft armoury designed to be as close to vanilla as possible.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["wolfboyft"],
+  "credits": "The (surly yet skilled) author of Roots for making the knife and hammer than inspired me so",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

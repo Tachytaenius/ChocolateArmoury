@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"M",
+		"S"
+	],
+	"key": {
+		"M": {
+			"type": "forge:ore_dict",
+			"ore": "cobblestone"
+		},
+		"S": {
+			"type": "forge:ore_dict",
+			"ore": "stickWood"
+		}
+	},
+	"result": {
+		"item": "chocolatearmoury:stone_dagger"
+	}
+}
